@@ -1,0 +1,1 @@
+`/opt/bin/install_name_tool -change libmbedcrypto.3.dylib @rpath/libmbedcrypto.3.dylib bin/rsa_encrypt`

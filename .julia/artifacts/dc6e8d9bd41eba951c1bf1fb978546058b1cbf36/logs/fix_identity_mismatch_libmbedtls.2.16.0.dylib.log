@@ -1,0 +1,1 @@
+`/opt/bin/install_name_tool -id @rpath/libmbedtls.12.dylib lib/libmbedtls.2.16.0.dylib`

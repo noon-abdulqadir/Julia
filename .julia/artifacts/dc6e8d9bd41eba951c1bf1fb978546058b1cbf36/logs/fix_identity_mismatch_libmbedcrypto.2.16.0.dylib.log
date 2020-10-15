@@ -1,0 +1,1 @@
+`/opt/bin/install_name_tool -id @rpath/libmbedcrypto.3.dylib lib/libmbedcrypto.2.16.0.dylib`

@@ -1,0 +1,1 @@
+`/opt/bin/install_name_tool -change libmbedx509.0.dylib @rpath/libmbedx509.0.dylib bin/req_app`

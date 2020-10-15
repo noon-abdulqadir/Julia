@@ -1,0 +1,1 @@
+`/opt/bin/install_name_tool -add_rpath @loader_path/. lib/libmbedtls.2.16.0.dylib`

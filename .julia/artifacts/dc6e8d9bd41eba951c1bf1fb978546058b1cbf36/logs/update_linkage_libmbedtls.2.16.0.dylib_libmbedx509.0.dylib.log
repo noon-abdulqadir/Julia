@@ -1,0 +1,1 @@
+`/opt/bin/install_name_tool -change libmbedx509.0.dylib @rpath/libmbedx509.0.dylib lib/libmbedtls.2.16.0.dylib`

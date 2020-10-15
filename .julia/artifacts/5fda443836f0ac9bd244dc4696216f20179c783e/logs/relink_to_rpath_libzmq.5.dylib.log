@@ -1,0 +1,1 @@
+`/opt/bin/install_name_tool -change /usr/lib/libc++.1.dylib @rpath/libc++.1.dylib lib/libzmq.5.dylib`
